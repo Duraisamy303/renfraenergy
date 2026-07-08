@@ -1,0 +1,23 @@
+In this project, you need to configure the API URL, endpoint, and the JSON output location in the script file.
+
+When you run the script:
+node scripts/fetch-api-data.js
+
+the script will call the configured API and automatically create/update the JSON file with the latest API response.
+
+If the API returns a valid response, the JSON file will be updated with the new data. If the API does not return a response or the request fails, the existing JSON file will remain unchanged, preserving the previously stored data.
+
+
+
+
+
+intha project la api url ah script file la endpoints kulla pass panitu json location add panna athu direct ah json file create panni athula api response ah store pannirum
+
+Script ah run panna command
+
+node scripts/fetch-api-data.js
+
+oru time trigger panna script api la response vantha atha store pannum illana prev json data va remove pannathu old data apdiye irukum
+
+
+

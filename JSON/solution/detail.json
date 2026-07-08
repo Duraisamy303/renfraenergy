@@ -1,0 +1,98 @@
+{
+  "action": "success",
+  "data": [
+    {
+      "solution_id": "NjQ1MTRlNDQtYzdhZC00ZThhLWEwODEtNDc4MDAwZjhmODY5",
+      "solution_name": "Battery Energy Storage System",
+      "sub_title": "",
+      "banner_image_name": "energystorage-banner.svg",
+      "banner_image_path": "media/solutions/energystorage-banner-2025-12-10_11-23-04.svg",
+      "created_date": "Jul 02, 2026 | 11:39 AM",
+      "modified_date": "Jul 02, 2026 | 11:39 AM",
+      "created_user": "Super Admin",
+      "modified_user": "Super Admin",
+      "ongoing_reports": "",
+      "total_projects_completed": "",
+      "data": {
+        "content": [
+          {
+            "id": 449,
+            "data_uniq_id": "MDY3ZmViYWEtZjk5NC00ZDk5LWJjNTEtZDVkOWIwMWRlY2E1",
+            "file_name": "",
+            "file_path": "media/solutions/-2026-07-02_11-39-26.",
+            "url": "",
+            "description": "<p class=\"ql-align-center\">As a provider of end-to-end energy solutions, Renfra Energy manufactures and builds Battery Energy Storage Systems for our clients, enabling a more efficient, reliable, and sustainable power supply to their facilities.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\">We provide this hybrid solution, as Battery Energy Storage System (BESS) are needed since customers can store energy from the grid as it is produced from their farms and use it during peak hours, significantly saving on energy loss, which otherwise will either be banked or incur energy losses due to non utilization (Banking charges for power parking/banking on grid that has been generated from the farms but not immediately used are now either getting expensive or the Discoms are removing this service totally. BESS mitigates this cost, thus not only reducing charges for unused/banked power but also optimizing the generation from the plants.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\">Further in areas where there are frequent grid blackouts or maintenance shutdowns, having a BESS solution will ensure smooth and consistent power supply to your facility.</p><p class=\"ql-align-center\">Renfra Energy acts as a one stop solution provider to implement the BESS solution in your facility since both the DC and the AC side are handled by our professional team.</p>",
+            "title": "",
+            "position": 1,
+            "ongoing_projects": "",
+            "installed_capacity": "",
+            "active_status": 1,
+            "created_date": "2026-07-02T11:39:26.399",
+            "modified_date": "2026-07-02T11:39:26.399",
+            "created_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "modified_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "created_user": "Super Admin",
+            "modified_user": "Super Admin"
+          }
+        ],
+        "twocolumn": [
+          {
+            "id": 450,
+            "data_uniq_id": "MWFjNDhhZDUtZTA5Yi00Mzc2LWIyNTUtMjJjNjg3OGRiNDM2",
+            "file_name": "",
+            "file_path": "media/solutions/-2026-07-02_11-39-26.",
+            "url": "",
+            "description": "<p><br></p><h2>Our commercial &amp; industrial solutions include</h2><p><br></p><ul><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Grid capacity allocation and Power evacuation activities</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Design &amp; Engineering</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Technology Selection</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Site readying/Construction</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Procurement</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Installation</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Grid Permits &amp; Approvals</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Commissioning</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Energy Management System (Monitoring &amp; Controlling)</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Fire prevention and detection systems</span></li><li><span style=\"color: lab(27.1134 -0.956401 -12.3224);\">Maintenance</span></li></ul>",
+            "title": "",
+            "position": 2,
+            "ongoing_projects": "",
+            "installed_capacity": "",
+            "active_status": 1,
+            "created_date": "2026-07-02T11:39:26.399",
+            "modified_date": "2026-07-02T11:39:26.399",
+            "created_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "modified_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "created_user": "Super Admin",
+            "modified_user": "Super Admin",
+            "inner_stats": [
+              {
+                "label": "Ongoing Projects",
+                "value": "5.015 MWh"
+              },
+              {
+                "label": "Installed Capacity",
+                "value": "3.42 MWh"
+              }
+            ]
+          }
+        ],
+        "image": [
+          {
+            "id": 451,
+            "data_uniq_id": "Y2UyMDljODMtYzBmYS00MzJkLTg1NDMtMGM1ZGVlYWFlYTFh",
+            "file_name": "Energy Storage System.png",
+            "file_path": "media/solutions/Energy_Storage_System-2026-06-22_05-12-31.png",
+            "url": "",
+            "description": "",
+            "title": "",
+            "position": 3,
+            "ongoing_projects": "",
+            "installed_capacity": "",
+            "active_status": 1,
+            "created_date": "2026-07-02T11:39:26.399",
+            "modified_date": "2026-07-02T11:39:26.399",
+            "created_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "modified_by": "OWY0YzdkM2EtNWJjMS00ZTRmLTliOWUtM2M4ZDZjMjRiY2Q3",
+            "created_user": "Super Admin",
+            "modified_user": "Super Admin"
+          }
+        ]
+      }
+    }
+  ],
+  "page_number": 1,
+  "items_per_page": 10,
+  "total_pages": 1,
+  "total_items": 1,
+  "table_name": "solutions_content"
+}

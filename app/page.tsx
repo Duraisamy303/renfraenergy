@@ -172,9 +172,15 @@ export default function HomePage() {
                   </Link>
                 </div>
                 <p className="text-gray-700 leading-relaxed">
-                  At Renfra Energy India Limited, our commitment is to make clean energy available and affordable to all, thus reducing the carbon footprint! As a fast-growing turnkey solution provider for clean energy in the region, Renfra Energy India Limited takes pride in being a catalyst in the renewable energy landscape.
+                  
+                At Renfra Energy India Limited, our commitment is to make clean energy available and affordable to all, thus reducing the carbon footprint!
                 </p>
-                <div>
+                <p className="text-gray-700 font-bold leading-relaxed">
+
+                Renfra Energy India Limited is a green-field project developer and provides end-to-end solutions for wind, solar and energy storage that are critical to meet the power demands of industrial, commercial and residential.
+                </p>
+               
+                {/* <div>
                   <h3 className="text-xl md:text-2xl font-bold text-[#0D0D0D] mb-3">What We Do</h3>
                   <p className="text-base text-gray-700 mb-4">We are a full-service EPC (Engineering, Procurement & Construction) company delivering:</p>
                   <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -183,7 +189,7 @@ export default function HomePage() {
                     <li>Battery Energy Storage Systems (BESS)</li>
                     <li>Hybrid Renewable Solutions (Solar + Wind + BESS)</li>
                   </ul>
-                </div>
+                </div> */}
                 <Link href="/about" className="inline-block px-6 py-3  bg-gradient-to-r from-[#329ACD] to-[#3AB257] text-white font-semibold rounded-full hover:opacity-90 hover:scale-105 transition-all duration-300 w-fit">
               {/* <Link href="/solutions" className="inline-block px-8 py-3 bg-gradient-to-r from-[#329ACD] to-[#3AB257] text-white rounded-full font-medium hover:opacity-90 hover:scale-105 transition-all duration-300"> */}
                  
